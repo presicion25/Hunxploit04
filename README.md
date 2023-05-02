@@ -39,6 +39,8 @@ Click below for the Video Demonstration:
 
 In the video above, you can see me demonstrate the use of Hunxploit04 for OSINT. This tool and many others like it can be used for intelligence gathering for a variety of reasons and can run on most Linux distros.
 
+For more information, visit the main page for this tool <a href="https://kalilinuxtutorials.com/hunxploit04-tool/">here</a></h1>
+
 
 <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
 
